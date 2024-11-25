@@ -1,0 +1,15 @@
+{
+  "name": "rideshare",
+  "version": "1.0.0",
+  "description": "RideShare is a ride-sharing application that allows users to search for available rides, create their own rides, and manage their ride requests and bookings. The project is built using React for the frontend and includes components for user authentication, ride search, ride creation, and ride management.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
