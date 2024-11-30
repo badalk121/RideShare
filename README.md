@@ -25,7 +25,7 @@ The application follows a modular architecture with separate components for user
 To run the project locally, follow these steps:
 
 **Clone the repository:**
-git clone https://github.com/your-username/ride-sharing-app.git
+git clone https://github.com/badalk121/RideShare
 
 **Install dependencies:**
 cd ride-sharing-app
