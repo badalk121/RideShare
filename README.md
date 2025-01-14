@@ -25,17 +25,21 @@ The application follows a modular architecture with separate components for user
 To run the project locally, follow these steps:
 
 **Clone the repository:**
-git clone https://github.com/badalk121/RideShare
+
+    git clone https://github.com/badalk121/RideShare
 
 **Install dependencies:**
-cd ride-sharing-app
-npm install
+
+    cd ride-sharing-app
+    npm install
 
 **Start the development server:**
-npm start
+
+    npm start
 
 **Open the application in your browser:**
-http://localhost:3000
+
+    http://localhost:3000
 
 ## **Usage**
 
@@ -49,14 +53,13 @@ View your ride history and profile.
 To run the tests for the project, follow these steps:
 
 **Install dependencies:**
-Copy
-Insert
-cd ride-sharing-app
-npm install
+
+    cd ride-sharing-app
+    npm install
+
 Run the tests:
-Copy
-Insert
-npm test
+
+    npm test
 
 ## Contributing
 
